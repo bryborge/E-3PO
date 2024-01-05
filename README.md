@@ -11,7 +11,6 @@ Listed below are all hardware components that have major implications for the co
 *   [Ender 3 Pro](https://www.creality3dofficial.com/products/official-creality-ender-3-3d-printer)
 *   [Creality "Silent" Mainboard v4.2.7](https://www.creality3dofficial.com/products/creality-silent-mainboard-v4-2-7)
 *   [CR-Touch](https://www.creality3dofficial.com/products/creality-cr-touch)
-*   [Creality Ender 3 V2 Display](https://www.amazon.com/gp/product/B099PGFRRC)
 
 ### Mods
 
